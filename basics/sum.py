@@ -1,4 +1,6 @@
 #! /usr/bin/env python
+
+# This program sums given integers/floats as command line parameters
 import sys
 
 def my_sum(numbers):
