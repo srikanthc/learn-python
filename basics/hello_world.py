@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 
-# we don't want these changes in the commit. lets see git revert in action
 # Best program ever!
 
 import sys
